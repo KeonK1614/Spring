@@ -1,0 +1,10 @@
+1720499934599	Move 'RequestForward.jsp' to '03Scope'
+1720502993440	Rename resource 'NewFile.jsp'
+1720508641293	Move 2 resources to '04Cookie'
+1720577075065	Delete element
+1720662311367	Move 'ParamInclude.jsp' to 'inc'
+1720664360625	Delete element
+1720683711039	Move '09PagingBoard' to 'webapp'
+1720685009358	Delete element
+1720685024639	Copy folder
+1720766547869	Rename compilation unit 'MyElClass.java'

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;QuFind.java&apos; to &apos;QuFindPrimeNumber.java&apos;&#x0A;- Original project: &apos;Homework&apos;&#x0A;- Original element: &apos;QuFind.java&apos;&#x0A;- Renamed element: &apos;QuFindPrimeNumber.java&apos;" description="Rename compilation unit &apos;QuFind.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{QuFind.java" name="QuFindPrimeNumber.java" references="false" stamp="1717512127181" version="1.0"/>
+</session>
